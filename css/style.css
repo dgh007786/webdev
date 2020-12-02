@@ -1219,3 +1219,15 @@ background-color: rgba(236,101,67,0.8);background-size: cover;background-positio
     margin-top: 100px;
 }
 
+.about{
+
+  margin-bottom: 200px;
+  margin-top: 200px;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+}
+
+.auborder{
+  border: 2px;
+}
