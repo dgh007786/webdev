@@ -43,7 +43,9 @@ footer .contact-details p {
 .footer-logo {
     width: 250px;
 }
-
+footer {
+    background: #393939;
+}
 .footer-top .widget_nav_menu li {
     text-align: left;
     width: 100%;
@@ -287,9 +289,6 @@ footer nav ul li:last-child a {
 footer .theme-author {
 	text-transform: uppercase;
 	font-weight: 700;
-}
-footer {
-    background-image: url("contact bg.jpg");
 }
 
 
